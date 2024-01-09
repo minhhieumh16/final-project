@@ -1,0 +1,6 @@
+.col-header{
+    width: 150px;
+}
+.col-header:first-child{
+    width: 0;
+}
